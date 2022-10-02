@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi176&theme=radical)
 -->
 
 
-![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi176&theme=radical)
+
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=pallavi176&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
