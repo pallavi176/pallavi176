@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align = 'center'>
 ![Pallavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pallavi176&theme=radical)
+</p>
+
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=pallavi176&theme=gotham&hide_border=true'>
+</p>
